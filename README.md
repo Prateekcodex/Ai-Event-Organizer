@@ -6,12 +6,6 @@
 
 *Discover. Create. Connect.*
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-ai--event--organizer--kappa.vercel.app-6366f1?style=for-the-badge)](https://ai-event-organizer-kappa.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Convex](https://img.shields.io/badge/Convex-Realtime%20DB-orange?style=for-the-badge)](https://convex.dev/)
-[![Clerk](https://img.shields.io/badge/Clerk-Auth%20%26%20Billing-purple?style=for-the-badge)](https://clerk.dev/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
-
 </div>
 
 ---
@@ -21,12 +15,6 @@
 **Spot** is a full-stack, production-grade event management SaaS application that reimagines how events are created, discovered, and managed. At its core, Spot uses **Google Gemini AI** to generate complete event details from a single line of text - making event creation effortless for organizers of all kinds.
 
 From personalized discovery feeds and QR-code-based ticketing to real-time dashboards and seamless attendee check-ins, Spot is built to handle the entire event lifecycle end-to-end.
-
----
-
-## 🌐 Live Application
-
-> **[https://ai-event-organizer-kappa.vercel.app/](https://ai-event-organizer-kappa.vercel.app/)**
 
 ---
 
@@ -92,7 +80,6 @@ A debounced search bar and location selector (state + city) let users find exact
 | **Images** | [Unsplash API](https://unsplash.com/developers) |
 | **Forms** | [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) |
 | **QR Codes** | `react-qr-code` (generation) + `html5-qrcode` (scanning) |
-| **Deployment** | [Vercel](https://vercel.com/) |
 
 ---
 
@@ -333,16 +320,8 @@ Please open an issue first for major changes.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 Built with ❤️ using Next.js, Convex, Clerk, and Google Gemini
-
-**[🌐 Visit Live App](https://ai-event-organizer-kappa.vercel.app/)**
 
 </div>
